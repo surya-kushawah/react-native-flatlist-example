@@ -1,9 +1,9 @@
-# Project Title
+# FlatList React Native Example
 
-A brief description of what this project does and who it's for
+The ultimate guide to react native FlatList optimization
 
 
-![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
+![Logo](https://androidwave.com/wp-content/uploads/2022/09/androidwave-logo-1.svg)
 
 
 ## Installation
@@ -11,37 +11,32 @@ A brief description of what this project does and who it's for
 Install my-project with npm
 
 ```bash
-  npm install my-project
-  cd my-project
+  cd react-native-flatlist-example
+  npm install
 ```
     
 ## Usage/Examples
 
-```javascript
-import Component from 'my-project'
-
-function App() {
-  return <Component />
-}
+```bash
+  npm start
 ```
 
 
 ## 🛠 Skills
-Javascript, HTML, CSS...
+Javascript, TypeScript, ReactNAtive
 
 
 ## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/androidwave)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/droidwave)
 
 
 ## Feedback
 
-If you have any feedback, please reach out to us at fake@fake.com
+If you have any feedback, please reach out to us at droidwaveblog@gmail.com
 
 
 ## Support
 
-For support, email fake@fake.com or join our Slack channel.
+For support, email droidwaveblog@gmail.com or join our social media.
 
