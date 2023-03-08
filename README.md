@@ -23,7 +23,7 @@ Install my-project with npm
 
 
 ## 🛠 Skills
-Javascript, TypeScript, ReactNAtive
+Javascript, TypeScript, ReactNative
 
 
 ## 🔗 Links
