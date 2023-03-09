@@ -6,6 +6,7 @@ The ultimate guide to react native FlatList optimization
 ![Logo](https://androidwave.com/wp-content/uploads/2022/09/androidwave-logo-1.svg)
 
 
+
 ## Installation
 
 Install my-project with npm
@@ -14,7 +15,10 @@ Install my-project with npm
   cd react-native-flatlist-example
   npm install
 ```
-    
+### Read More 
+[React Native FlatList on Android Developer Blog](https://androidwave.com/react-native-flatlist-example-best-practices/) 
+
+
 ## Usage/Examples
 
 ```bash
